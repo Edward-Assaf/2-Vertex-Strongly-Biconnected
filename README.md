@@ -42,4 +42,4 @@ Step3 Testing whether a directed graph is 2-vertex strongly biconnected or not i
 
 يزن نزار الجندي 6602
 
-عامر بسيم عنيزة 5526
+عامر بسيم عنيزه 5526
