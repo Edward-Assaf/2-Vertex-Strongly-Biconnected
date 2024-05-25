@@ -1,7 +1,7 @@
 # 2-Vertex-Strongly-Biconnected
 An implementation to test the 2-vertex-strong-biconnectivity of a graph in C++
 ## Definition
-A strongly biconnected directed graph G=(V,E) is 2-vertex strongly biconnected[5] if G has at least three vertices and G\{w} is strongly biconnected for all vertices w in G.  
+A strongly biconnected directed graph G=(V,E) is 2-vertex strongly biconnected[5] if G has at least three vertices and G-{w} is strongly biconnected for all vertices w in G.  
 
 ## Task
 Step 1 An implementation of the Cheriyan-Mehlhorn-Gabow algorithm[1,2,3] for finding strongly connected components of a directed graph in linear time. 
