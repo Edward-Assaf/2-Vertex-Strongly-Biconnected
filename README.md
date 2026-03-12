@@ -19,27 +19,9 @@ Step3 Testing whether a directed graph is 2-vertex strongly biconnected or not i
 
 4.J. M. Schmidt, A simple test on 2-vertex- and 2-edge-connectivity, Inform. Process. Lett. 113 (2013) 241–244.
 
-5.Raed Jaberi, Minimum 2-Vertex Strongly Biconnected Spanning Directed Subgraph Problem Discrete Mathematics Letters, 40–43, Volume 7(2021) DOI: 10.47443/dml.2021.0024
-
 6.Stanford Large Network Dataset Collection, https://snap.stanford.edu/data/index.html
 
 ## Group
 بتول محمد خليل 6261
 
 ادوارد مالك عساف 6682
-
-جوى جعفر عبدالهادي 6223
-
-هلال عصام سلوم 5972
-
-علي بشار غصون 6098
-
-مضر علي عبدالله 6544
-
-جودي محمد شحود 6209
-
-ارمناك ابراهيم جبور 6497
-
-يزن نزار الجندي 6602
-
-عامر بسيم عنيزه 5526
